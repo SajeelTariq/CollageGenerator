@@ -19,9 +19,15 @@ The images required for this project can be downloaded from the link in "images_
 2. Specify the text to be displayed.
 3. The script will generate and display a detailed collage.
 
+
 ## Technologies
 
 - Python
 - OpenCV
 - NumPy
 - Matplotlib
+
+
+## Example Collage
+
+![image](https://github.com/user-attachments/assets/c344ef6e-0f20-4ba3-aba6-92a309b2a5a2)
